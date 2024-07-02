@@ -18,6 +18,10 @@
 
 ---
 
-- [ ] Tiktok / Youtube - 'Learn with Sample Data'
+- [x] Tiktok / Youtube - 'Learn with Sample Data'
 
+---
 
+- [ ] Youtube / Tiktok - 'Folders within Power BI Data'
+
+ 
