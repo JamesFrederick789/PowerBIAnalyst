@@ -4,7 +4,7 @@
 
 ##### Tuesday 2nd July 2024
 
-Youtube video - 'How to create a Power BI Report using Sample data from scratch!'
+- [ ] Youtube video - 'How to create a Power BI Report using Sample data from scratch!'
 
 - [ ] Introduction to Power BI
 - [ ] Data transformation
@@ -14,7 +14,10 @@ Youtube video - 'How to create a Power BI Report using Sample data from scratch!
 
 ---
 
-Youtube video - '5 Tips to improve your Power BI skills'
+- [ ] Youtube video - '5 Tips to improve your Power BI skills'
 
+---
+
+- [ ] Tiktok / Youtube - 'Learn with Sample Data'
 
 
