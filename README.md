@@ -1,0 +1,3 @@
+# PowerBIAnalyst - Youtube / Tiktok
+
+### Ideas:
