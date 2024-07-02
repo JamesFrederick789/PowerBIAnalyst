@@ -12,7 +12,9 @@ Youtube video - 'How to create a Power BI Report using Sample data from scratch!
 - [ ] Adding visuals (charts etc)
 - [ ] Canvas background
 
+---
 
+Youtube video - '5 Tips to improve your Power BI skills'
 
 
 
