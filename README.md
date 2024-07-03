@@ -24,4 +24,7 @@
 
 - [ ] Youtube / Tiktok - 'Folders within Power BI Data'
 
+---
+
+- [ ] Rating peoples dashboards from 1-10!
  
